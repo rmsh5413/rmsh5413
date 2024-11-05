@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly skilled Django developer with 2 years of experience in developing web applications.<br>Proficient in Python, Django, and related technologies. Strong background in software development<br>and a passion for creating efficient and scalable web applications. Excellent problem-solving skills<br>and a strong attention to detail.
+Highly skilled Django developer with 3.5 years of experience in developing web applications.<br>Proficient in Python, Django, and related technologies. Strong background in software development<br>and a passion for creating efficient and scalable web applications. Excellent problem-solving skills<br>and a strong attention to detail.
 
 
 ## 🌐 Socials:
