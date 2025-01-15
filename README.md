@@ -1,6 +1,8 @@
+# Hi there, I'm rmsh5413! 👋
+Welcome to my GitHub profile! I'm passionate about software development and love contributing to open-source projects. Here's a little about me:
+
 # 💫 About Me:
 Highly skilled Django developer with 3 years of experience in developing web applications.<br>Proficient in Python, Django, and related technologies. Strong background in software development<br>and a passion for creating efficient and scalable web applications. Excellent problem-solving skills<br>and a strong attention to detail.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rmshthapa11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramesh.thapa78) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramesh-thapa-106515214/) 
